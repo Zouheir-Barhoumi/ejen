@@ -1,0 +1,11 @@
+{
+  "name": "ejs_template_1",
+  "version": "1.0.0",
+  "description": "SSG",
+  "main": "site.config.js",
+  "scripts": {
+    "build": "node ./scripts/build"
+  },
+  "author": "",
+  "license": "MIT"
+}
